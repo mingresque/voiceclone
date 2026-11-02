@@ -1,0 +1,4 @@
+# Match the supplied script's English ChatterboxTTS API.
+chatterbox-tts==0.1.7
+# Perth 1.0.1 imports pkg_resources, which is absent from newer setuptools.
+setuptools==81.0.0
